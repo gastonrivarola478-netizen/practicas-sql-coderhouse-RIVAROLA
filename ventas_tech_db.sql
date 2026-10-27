@@ -1,1 +1,0 @@
-   CREATE DATABASE Ventas_Tech_DB;
